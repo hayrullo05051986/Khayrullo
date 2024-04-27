@@ -1,3 +1,2 @@
 # Khayrullo
-PHP, WEB 
-python, Arduino 
+PHP,WEB,python, Arduino 
